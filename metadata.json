@@ -1,0 +1,6 @@
+{
+  "name": "Myntra Saathi Regional",
+  "description": "Myntra E-Commerce platform with Myntra Saathi Multilingual Layer featuring English, Telugu, Hindi, Tamil query normalization, voice search, and regional color collections.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
